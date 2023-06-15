@@ -1,5 +1,7 @@
 #pragma once
 
+#define TAPPING_TERM 175
+
 #ifdef RGB_MATRIX_ENABLE
     #undef RGB_DISABLE_AFTER_TIMEOUT
     #define RGB_DISABLE_AFTER_TIMEOUT 900000     // 15 minutes (15 * 60 * 1000ms)
