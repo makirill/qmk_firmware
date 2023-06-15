@@ -1,6 +1,6 @@
 #pragma once
 
-#define TAPPING_TERM 175
+#define TAPPING_TERM 200
 
 #ifdef RGB_MATRIX_ENABLE
     #undef RGB_DISABLE_AFTER_TIMEOUT
