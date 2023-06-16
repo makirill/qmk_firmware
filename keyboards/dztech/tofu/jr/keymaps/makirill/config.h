@@ -1,6 +1,6 @@
 #pragma once
 
-#define TAPPING_TERM 175
+#define TAPPING_TERM 200
 
 #undef DEBOUNCE
 #define DEBOUNCE 16
