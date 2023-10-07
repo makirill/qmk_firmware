@@ -1,0 +1,5 @@
+= How to Flash
+
+* Switch to the bootloader mode (fn + \)
+* Mount new RPI-RP2 harddrive, you can use file manager or gnome-disks utility
+* Run qmk flash
